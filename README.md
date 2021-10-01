@@ -1,4 +1,4 @@
-# vue-apollo
+# vue-apollo-graphql-example
 
 ## Project setup
 ```
